@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Quiz-1</key>
+	<dict>
+		<key>answer</key>
+		<string>Chicago</string>
+		<key>explaination</key>
+		<string>Every version of Windows has an internal codename used by Microsoft to refer to the project before a final name had been chosen. The 32bit protected mode kernel of Chicago (Windows 95) was codenamed Cougar and runs on top of Jaguar (Chicago kernel).
+
+Windows 95 was released on August 24, 1995 and was a huge leap forward from the previous versions of Windows. During development it was also referred to as Windows 4.0</string>
+		<key>explainationImage</key>
+		<string>sshot4ebe9502e46b9</string>
+		<key>option</key>
+		<array>
+			<string>Chicago</string>
+			<string>Melbourne</string>
+			<string>Longhorn</string>
+			<string>Jaguar</string>
+		</array>
+		<key>question</key>
+		<string>What Was the Secret Code Name for Windows 95?</string>
+	</dict>
+	<key>Quiz-2</key>
+	<dict>
+		<key>answer</key>
+		<string>4.77 MHz</string>
+		<key>explaination</key>
+		<string>The original IBM PC, model number 5150, was introduced in August 1981 with a 5.25″ floppy disk or cassette system, and a 4.77 MHz Intel 8088 CPU. The maximum amount of RAM was 256kb, though they were usually sold with either 16 or 64 KB. You could also upgrade your processing power by adding an Intel 8087 math processor for floating point arithmetic.
+
+The unit had a CGA video card that could be hooked up to an RGB monitor, or even hooked up to a television instead–interestingly, you could add more than one video card and use two monitors at the same time. For instance, applications like AutoCAD would let you use a color monitor for graphics and a monochrome monitor for text menus. Image from Wikipedia</string>
+		<key>explainationImage</key>
+		<string>sshot4edc3da230e52</string>
+		<key>option</key>
+		<array>
+			<string>8 MHz</string>
+			<string>25 MHz</string>
+			<string>7.14 MHz</string>
+			<string>4.77 MHz</string>
+		</array>
+		<key>question</key>
+		<string>How Fast Was the CPU in the Original IBM PC?</string>
+	</dict>
+	<key>Quiz-3</key>
+	<dict>
+		<key>answer</key>
+		<string>Tetris</string>
+		<key>explaination</key>
+		<string>In 1993 Russian Cosmonaut Aleksandr A. Serebrov blasted off aboard a Soyuz TM-17 rocket to the MIR Space Station. Stashed among his personal gear was a Nintendo Game Boy and Tetris game cartridge. That Game Boy spent 197 days aboard MIR with Serebrov and, upon returning to earth, was auctioned off for $1,220 during a Russian Space History auction at Sotheby’s Auction House in 1996.</string>
+		<key>explainationImage</key>
+		<string>xsshot4edd18ad1b7c1</string>
+		<key>option</key>
+		<array>
+			<string>Super Mario Bros.</string>
+			<string>Asteroids</string>
+			<string>Pong</string>
+			<string>Tetris</string>
+		</array>
+		<key>question</key>
+		<string>What Was the First Video Game Played in Space?</string>
+	</dict>
+	<key>Quiz-4</key>
+	<dict>
+		<key>answer</key>
+		<string>Enigma</string>
+		<key>explaination</key>
+		<string>Long before the advent of digital encryption there were mechanical encryption tools. The earliest commercial encryption tool was the Engima machine. Patented in 1918, brought into production in the 1920s, and made popular by world wide military use (most notably/infamously by Nazi run Germany in World War II), the Enigma series of machines peaked at 100,000 production units.
+
+Although the Enigma code was cracked during World War II and the devices fell out of popular use over the following decade, the public remained largely unaware of the Enigma machines, the role they played in World War II, and the great lengths the Allied forces went to crack the German Enigma codes. Upon declassification of this information in the 1970s there was a surge of interest in the devices. The majority of the remaining machines are found in museums and the hands of private collectors.</string>
+		<key>explainationImage</key>
+		<string>sshot4edd1b5e0b9ee</string>
+		<key>option</key>
+		<array>
+			<string>Codex</string>
+			<string>Cryptor</string>
+			<string>Datum</string>
+			<string>Enigma</string>
+		</array>
+		<key>question</key>
+		<string>What Was The First (Well-Known) Encryption Machine?</string>
+	</dict>
+	<key>Quiz-5</key>
+	<dict>
+		<key>answer</key>
+		<string>Arduino</string>
+		<key>explaination</key>
+		<string>The Arduino board, a wildly popular open-source hardware module, is indirectly named after King Arduin of Italy–who ruled Italy briefly between 1002-1004 CE. How did his name become attached to a circuit board a millennium after he was deposed? The founders of the Arduino project live in the small Italian town of Ivrea which is King Arduin’s home town and the location of the Bar Di Re Arduino, a pub named in his honor. By way of the drinking habits of a 21st century man the name of an 11th century king was attached to the world’s most popular prototyping board.</string>
+		<key>explainationImage</key>
+		<string>sshot4ed65402649c2</string>
+		<key>option</key>
+		<array>
+			<string>NVidia</string>
+			<string>Plankster</string>
+			<string>Arduino</string>
+			<string>Henry</string>
+		</array>
+		<key>question</key>
+		<string>Which Circuit Board Was Named After a King?</string>
+	</dict>
+</dict>
+</plist>
